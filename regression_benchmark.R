@@ -40,8 +40,3 @@ mse.elasticnet <- mean((pred.elasticnet - as.numeric(as.character(test.y)))^2)
 mse.ridge
 mse.lasso
 mse.elasticnet
-
-
-
-
-
